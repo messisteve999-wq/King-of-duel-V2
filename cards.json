@@ -1,0 +1,22 @@
+[
+ {"id":"M001","name":"Gardien du Nil","kind":"monster","level":4,"atk":1700,"def":1500,"type":"Guerrier","attribute":"EAU"},
+ {"id":"M002","name":"Dragon du Désert","kind":"monster","level":4,"atk":1800,"def":1200,"type":"Dragon","attribute":"TERRE"},
+ {"id":"M003","name":"Mage Solaire","kind":"monster","level":4,"atk":1500,"def":1600,"type":"Magicien","attribute":"LUMIERE"},
+ {"id":"M004","name":"Sentinelle d'Obsidienne","kind":"monster","level":4,"atk":1400,"def":1900,"type":"Guerrier","attribute":"TENEBRES"},
+ {"id":"M005","name":"Faucon Royal","kind":"monster","level":3,"atk":1200,"def":1000,"type":"Bête-Ailée","attribute":"VENT"},
+ {"id":"M006","name":"Golem Ancien","kind":"monster","level":5,"atk":2100,"def":1800,"type":"Rocher","attribute":"TERRE"},
+ {"id":"M007","name":"Chevalier du Soleil","kind":"monster","level":5,"atk":2200,"def":1700,"type":"Guerrier","attribute":"LUMIERE"},
+ {"id":"M008","name":"Serpent Abyssal","kind":"monster","level":6,"atk":2300,"def":1900,"type":"Aqua","attribute":"EAU"},
+ {"id":"M009","name":"Titan des Sables","kind":"monster","level":7,"atk":2600,"def":2100,"type":"Rocher","attribute":"TERRE"},
+ {"id":"M010","name":"Roi du Ciel","kind":"monster","level":7,"atk":2800,"def":2200,"type":"Dragon","attribute":"VENT"},
+ {"id":"M011","name":"Lion de Bronze","kind":"monster","level":4,"atk":1600,"def":1400,"type":"Bête","attribute":"TERRE"},
+ {"id":"M012","name":"Prêtresse Lunaire","kind":"monster","level":4,"atk":1300,"def":1800,"type":"Magicien","attribute":"LUMIERE"},
+ {"id":"M013","name":"Guerrier du Delta","kind":"monster","level":4,"atk":1750,"def":1300,"type":"Guerrier","attribute":"EAU"},
+ {"id":"M014","name":"Démon du Crépuscule","kind":"monster","level":4,"atk":1900,"def":1000,"type":"Démon","attribute":"TENEBRES"},
+ {"id":"M015","name":"Oracle du Vent","kind":"monster","level":3,"atk":1000,"def":1500,"type":"Magicien","attribute":"VENT"},
+ {"id":"M016","name":"Colosse de Pierre","kind":"monster","level":6,"atk":2400,"def":2000,"type":"Rocher","attribute":"TERRE"},
+ {"id":"M017","name":"Dragon d'Azur","kind":"monster","level":6,"atk":2500,"def":2000,"type":"Dragon","attribute":"EAU"},
+ {"id":"M018","name":"Roi Scorpion","kind":"monster","level":5,"atk":2000,"def":1800,"type":"Insecte","attribute":"TERRE"},
+ {"id":"M019","name":"Gardienne Stellaire","kind":"monster","level":4,"atk":1450,"def":1700,"type":"Magicien","attribute":"LUMIERE"},
+ {"id":"M020","name":"Bête des Ténèbres","kind":"monster","level":4,"atk":1850,"def":900,"type":"Bête","attribute":"TENEBRES"}
+]

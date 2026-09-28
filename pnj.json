@@ -1,0 +1,7 @@
+[
+ {"id":"PNJ01","name":"Atem Junior","difficulty":"Débutant","deck":"deck_ultime","description":"PNJ d'initiation : invoque un monstre simple et attaque."},
+ {"id":"PNJ02","name":"Gardien du Nil","difficulty":"Normal","deck":"egyptien","description":"Favorise les monstres Terre et Eau."},
+ {"id":"PNJ03","name":"Maître des Ombres","difficulty":"Avancé","deck":"tenebres","description":"Style agressif avec monstres à ATK élevée."},
+ {"id":"PNJ04","name":"Dueliste du Vent","difficulty":"Avancé","deck":"cyberse_link","description":"Style rapide et offensif."},
+ {"id":"PNJ05","name":"Roi du Sable","difficulty":"Expert","deck":"controle","description":"Utilise des monstres de niveau élevé."}
+]

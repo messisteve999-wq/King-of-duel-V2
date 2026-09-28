@@ -1,0 +1,8 @@
+{
+  "name":"the-king-of-duel-v2",
+  "version":"2.0.0",
+  "private":true,
+  "type":"commonjs",
+  "scripts":{"start":"node server.js","dev":"node server.js"},
+  "dependencies":{"express":"^5.1.0"}
+}
