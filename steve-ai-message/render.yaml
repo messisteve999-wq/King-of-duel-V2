@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: steve-ia-message-api
+    runtime: node
+    plan: free
+    buildCommand: cd steve-ai-message && npm install
+    startCommand: cd steve-ai-message && npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_MODEL
+        value: gpt-5.6-luna
